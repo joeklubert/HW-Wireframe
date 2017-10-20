@@ -1,0 +1,46 @@
+
+
+p#article {
+
+	background-color: #777;
+	color: white;
+	
+	padding-bottom: 10px;
+	clear: right;
+	background-height: 5px;
+	
+	float: left;
+	clear: right;
+	position: fixed;
+	margin-left:  375px;
+	padding-top: 5px;
+	
+	margin-top: 150px;
+
+
+	
+
+}
+
+h6#info {
+
+	background-color: #ebebeb;
+	color: #777;
+	
+	
+	padding-bottom:10px;
+	clear: right;
+	background-height: 5px;
+	width: 300px;
+	float: left;
+	position: fixed;
+	margin-left: 250px;
+	padding-top: 5px;
+	text-align: center;
+	margin-top: 200px;
+
+
+}
+
+/* did not complete the rest of my css, however, I am confident I grasp the concepts!!*/
+
